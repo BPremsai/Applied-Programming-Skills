@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1154-day-of-the-year](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/1154-day-of-the-year) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/1360-number-of-days-between-two-dates) |
 ## Queue
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1154-day-of-the-year](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/1360-number-of-days-between-two-dates) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Dynamic Programming
