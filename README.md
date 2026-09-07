@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1154-day-of-the-year](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/1154-day-of-the-year) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0179-largest-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
