@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
@@ -171,8 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0179-largest-number) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
