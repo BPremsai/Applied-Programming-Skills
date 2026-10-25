@@ -1,45 +1,51 @@
-import java.util.ArrayDeque;
-import java.util.Deque;
+
+import java.util.Stack;
 
 class MinStack {
-    private Deque<Integer> stack;
-    private Deque<Integer> minStack;
+    Stack<Integer> stack;
+    Stack<Integer> minStack;
 
     public MinStack() {
-        stack = new ArrayDeque<>();
-        minStack = new ArrayDeque<>();
+        stack = new Stack<>();
+        minStack = new Stack<>();
     }
-    
-    public void push(int val) {
-        stack.push(val);
-        // Push onto minStack if empty or if val <= current minimum
-        if (minStack.isEmpty() || val <= minStack.peek()) {
-            minStack.push(val);
+
+    public void push(int value) {
+        stack.push(value);
+
+        if (minStack.isEmpty() || value <= minStack.peek()) {
+            minStack.push(value);
         }
     }
-    
+
     public void pop() {
-        // If top element of main stack is the minimum, pop it from minStack as well
-        if (stack.peek().equals(minStack.peek())) {
+        int value = stack.pop();
+
+        if (value == minStack.peek()) {
             minStack.pop();
         }
-        stack.pop();
     }
-    
+
     public int top() {
         return stack.peek();
     }
-    
+
     public int getMin() {
         return minStack.peek();
     }
-}
 
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack obj = new MinStack();
- * obj.push(val);
- * obj.pop();
- * int param_3 = obj.top();
- * int param_4 = obj.getMin();
- */
+    public static void main(String[] args) {
+        MinStack minStack = new MinStack();
+
+        minStack.push(-2);
+        minStack.push(0);
+        minStack.push(-3);
+
+        System.out.println(minStack.getMin()); // -3
+
+        minStack.pop();
+
+        System.out.println(minStack.top());    // 0
+        System.out.println(minStack.getMin()); // -2
+    }
+}
