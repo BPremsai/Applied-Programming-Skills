@@ -1,45 +1,59 @@
-import java.util.ArrayDeque;
-import java.util.Deque;
+
+import java.util.Stack;
+import java.util.Arrays;
 
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
-        Deque<Integer> stack = new ArrayDeque<>();
+        Stack<Integer> stack = new Stack<>();
 
         for (int asteroid : asteroids) {
-            boolean destroyed = false;
+            boolean alive = true;
 
-            // Collision condition: Current asteroid moves LEFT (< 0) 
-            // and the top of the stack moves RIGHT (> 0)
-            while (!stack.isEmpty() && asteroid < 0 && stack.peek() > 0) {
-                int top = stack.peek();
+            while (alive && asteroid < 0
+                    && !stack.isEmpty()
+                    && stack.peek() > 0) {
 
-                if (top < -asteroid) {
-                    // Right-moving top asteroid is smaller and explodes
+                if (stack.peek() < -asteroid) {
                     stack.pop();
-                } else if (top == -asteroid) {
-                    // Both asteroids are of equal size and both explode
+                } else if (stack.peek() == -asteroid) {
                     stack.pop();
-                    destroyed = true;
-                    break;
+                    alive = false;
                 } else {
-                    // Right-moving top asteroid is larger, current left-moving asteroid explodes
-                    destroyed = true;
-                    break;
+                    alive = false;
                 }
             }
 
-            // If the current asteroid survived all collisions, push it onto the stack
-            if (!destroyed) {
+            if (alive) {
                 stack.push(asteroid);
             }
         }
 
-        // Reconstruct result array from stack (preserving left-to-right order)
         int[] result = new int[stack.size()];
-        for (int i = result.length - 1; i >= 0; i--) {
-            result[i] = stack.pop();
+
+        for (int i = 0; i < stack.size(); i++) {
+            result[i] = stack.get(i);
         }
 
         return result;
+    }
+
+    public static void main(String[] args) {
+        Solution obj = new Solution();
+
+        System.out.println(Arrays.toString(
+            obj.asteroidCollision(new int[]{5, 10, -5})
+        ));
+
+        System.out.println(Arrays.toString(
+            obj.asteroidCollision(new int[]{8, -8})
+        ));
+
+        System.out.println(Arrays.toString(
+            obj.asteroidCollision(new int[]{10, 2, -5})
+        ));
+
+        System.out.println(Arrays.toString(
+            obj.asteroidCollision(new int[]{3, 5, -6, 2, -1, 4})
+        ));
     }
 }
