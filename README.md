@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
