@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0032-longest-valid-parentheses) |
 ## Simulation
 |  |
 | ------- |
