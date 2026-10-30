@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -292,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0231-power-of-two) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
