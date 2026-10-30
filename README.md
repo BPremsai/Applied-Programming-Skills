@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0922-sort-array-by-parity-ii](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0922-sort-array-by-parity-ii) |
@@ -162,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 ## Merge Sort
@@ -251,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0052-n-queens-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
