@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
+| [0922-sort-array-by-parity-ii](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0922-sort-array-by-parity-ii](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
