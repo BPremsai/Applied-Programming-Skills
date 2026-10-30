@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0075-sort-colors) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0704-binary-search) |
 ## Prefix Sum
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
