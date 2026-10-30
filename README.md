@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0142-linked-list-cycle-ii](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0344-reverse-string) |
