@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
+| [0636-exclusive-time-of-functions](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0636-exclusive-time-of-functions) |
 | [0641-design-circular-deque](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0705-design-hashset) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0636-exclusive-time-of-functions](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
