@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0231-power-of-two) |
 | [1154-day-of-the-year](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/1360-number-of-days-between-two-dates) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/BPremsai/Applied-Programming-Skills/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
